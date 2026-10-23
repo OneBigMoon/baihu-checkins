@@ -1,7 +1,7 @@
 spec_version: v1
 id: smzdm-checkin
 name: 什么值得买签到与任务奖励
-version: 1.0.0
+version: 1.0.1
 author: OneBigMoon
 category: 福利签到
 template:
@@ -13,12 +13,11 @@ schedule_opts:
   timeout: 5
   retry_count: 0
   retry_interval: 0
-  random_delay: 30
 sources:
 - id: main
   source_type: git
   source_url: https://github.com/OneBigMoon/baihu-checkins.git
-  branch: v1.0.0
+  branch: v1.0.1
   path: ''
   single_file: false
   proxy: none

@@ -13,10 +13,10 @@
 
 在白虎面板“应用市场 → 导入应用”填写对应的清单地址：
 
-- 携程每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.0/apps/ctrip-checkin/app.yaml`
-- 天翼云盘每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.0/apps/cloud189-checkin/app.yaml`
-- 百度贴吧每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.0/apps/tieba-checkin/app.yaml`
-- 什么值得买签到与任务奖励：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.0/apps/smzdm-checkin/app.yaml`
+- 携程每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.1/apps/ctrip-checkin/app.yaml`
+- 天翼云盘每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.1/apps/cloud189-checkin/app.yaml`
+- 百度贴吧每日签到：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.1/apps/tieba-checkin/app.yaml`
+- 什么值得买签到与任务奖励：`https://raw.githubusercontent.com/OneBigMoon/baihu-checkins/v1.0.1/apps/smzdm-checkin/app.yaml`
 
 安装表单只填写本人的账号凭据。Cookie 从对应官网已登录页面的网络请求读取，不要提交到仓库、Issue 或聊天中。
 
